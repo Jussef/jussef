@@ -9,8 +9,8 @@
 
 
 - 🔭 I’m currently working on my brand 
-- 🌱 I’m currently learning mobile development
-- 💬 Ask me about Minecraft, League of legends Y Rocket League
+- 🌱 I’m currently learning mobile development and Typescript to React Native
+- 💬 Ask me about Minecraft, League of legends and Rocket League
 - 📫 How to reach me: @jussefo
 - 😄 Nickname: Juss
 - ⚡ Fun fact: nob tiktoker

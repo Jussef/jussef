@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on my brand 
 - 🌱 I’m currently learning mobile development and Typescript to React Native
 - 💬 Ask me about Minecraft, League of legends and Rocket League
-- 📫 How to reach me: @jussefo
+- 📫 How to reach me: jussefwebstudio@gmail.com
 - 😄 Nickname: Juss
 - ⚡ Fun fact: nob tiktoker
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me ...

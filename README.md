@@ -15,6 +15,9 @@
 - 🙋🏻‍♂️ Social media: https://linktr.ee/jussef
 - 😄 Nickname: Juss
 - ⚡ Fun fact: nob tiktoker
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jussef)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me ...
 
 ```javascript

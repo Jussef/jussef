@@ -2,96 +2,125 @@
 
 <img src="banner1_jussef.png" alt="Banner" width="100%" />
 
-# ✨ 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕞𝕪 ℝ𝕖𝕥𝕣𝕠 ℂ𝕠𝕕𝕖 𝕊𝕡𝕒𝕔𝕖 ✨
+# 👋 ¡Hola! Soy Jussef
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%F0%9F%95%B9+Software+Engineer+%40+Spira+M%C3%A9xico;%F0%9F%8E%AE+Game+Designer+%40+Yux+Studios;%F0%9F%92%BE+80s+Pop+Lover+%26+Creator" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Mobile+Developer+%F0%9F%93%B1;Game+Designer+%F0%9F%8E%AE;Always+learning+%F0%9F%92%A1" alt="Typing SVG" />
 
-[![LinkTree](https://img.shields.io/badge/🌴_All_Links-FF69B4?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/jussef)
-[![Email](https://img.shields.io/badge/📧_Email_Me-00FFFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jussefwebstudio@gmail.com)
+### 💻 Desarrollador apasionado por crear experiencias digitales increíbles
+
+[![LinkTree](https://img.shields.io/badge/🌐_Todos_mis_enlaces-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/jussef)
+[![Email](https://img.shields.io/badge/📧_Contáctame-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jussefwebstudio@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jussef)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jussef.dev)
 
 </div>
 
 ---
 
-## 🎮 whoami
+## 🚀 Sobre mí
 
 ```javascript
-const juss = {
-  nickname: "Juss",
-  pronouns: "he" | "his",
-  location: "México 🇲🇽",
-  currentMission: "Building my brand & mastering mobile development",
+const jussef = {
+  nombre: "Jussef",
+  ubicación: "México 🇲🇽",
+  rol: "Full Stack Developer & Game Designer",
+  empresa: "Spira México",
   
-  techStack: {
-    languages: ["JavaScript", "TypeScript", "Swift", "Kotlin", "C#", "HTML", "CSS"],
-    frontend: ["React", "React Native", "Styled-Components"],
+  código: ["JavaScript", "TypeScript", "Swift", "Kotlin", "C#"],
+  tecnologías: {
+    frontend: ["React", "React Native", "HTML", "CSS"],
     backend: ["Node.js", "Firebase"],
-    tools: ["Notion", "Jira", "Git"],
-    design: ["Game Design", "UI/UX"]
+    mobile: ["React Native", "Swift", "Kotlin"],
+    herramientas: ["Git", "GitHub", "Notion", "Jira"],
+    diseño: ["Game Design", "UI/UX"]
   },
   
-  education: {
-    gameDesign: "Anáhuac University",
-    frontEnd: "Codigo Facilito",
-    fullStack: "Udemy - Web & Mobile Development"
-  },
-  
-  currentlyLearning: ["React Native", "TypeScript", "Mobile Dev Patterns"],
-  hobbies: ["🎮 Minecraft", "⚔️ League of Legends", "🚀 Rocket League"],
-  funFact: "📱 nob tiktoker"
+  aprendiendo: ["Mobile Development", "TypeScript avanzado", "Cloud Architecture"],
+  hobbies: ["🎮 Gaming", "🎨 Design", "📚 Learning new tech"],
+  datoCurioso: "Me encanta combinar diseño de juegos con desarrollo web"
 };
 ```
 
+> 💡 **Siempre buscando aprender y crear cosas increíbles. ¡Conectemos!**
+
 ---
 
-## 🌈 ℙ𝕠𝕨𝕖𝕣 𝕊𝕥𝕒𝕥𝕤
+## 📊 Estadísticas de GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jussef&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jussef&theme=synthwave&hide_border=true&background=0D1117&ring=FF00FF&fire=00FFFF&currStreakLabel=FF00FF" alt="GitHub Streak" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=jussef&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jussef&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jussef&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF" alt="Top Languages" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jussef&theme=synthwave&utcOffset=-6" alt="Productive Time" width="49%" />
+### 🔝 Lenguajes Más Usados
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jussef&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="49%" />
 
 </div>
 
 ---
 
-## 🏆 𝔸𝕔𝕙𝕚𝕖𝕧𝕖𝕞𝕖𝕟𝕥𝕤
+## 🏆 Logros de GitHub
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jussef&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=jussef&theme=onedark&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
-## 💫 𝕄𝕪 𝕋𝕖𝕔𝕙 𝕍𝕚𝕓𝕖
+## 🛠️ Tecnologías y Herramientas
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-FF00FF?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-00FFFF?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-FF1493?style=for-the-badge&logo=react&logoColor=white)
-![React Native](https://img.shields.io/badge/-React_Native-00CED1?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-FF69B4?style=for-the-badge&logo=node.js&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FF00FF?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-00FFFF?style=for-the-badge&logo=kotlin&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-FF1493?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFD700?style=for-the-badge&logo=firebase&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-FF00FF?style=for-the-badge&logo=git&logoColor=white)
+### Lenguajes de Programación
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frontend & Mobile
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 ℂ𝕠𝕟𝕥𝕣𝕚𝕓𝕦𝕥𝕚𝕠𝕟 𝔾𝕣𝕒𝕡𝕙
+## 📈 Gráfico de Actividad
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jussef&theme=redical&hide_border=true&bg_color=0D1117&color=FF00FF&line=00FFFF&point=FFFFFF" alt="Contribution Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jussef&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+
+</div>
+
+---
+
+## 🌟 Proyectos Destacados
+
+<div align="center">
+
+[![Proyecto 1](https://github-readme-stats.vercel.app/api/pin/?username=jussef&repo=mi-proyecto-1&theme=tokyonight&hide_border=true)](https://github.com/jussef/mi-proyecto-1)
+[![Proyecto 2](https://github-readme-stats.vercel.app/api/pin/?username=jussef&repo=mi-proyecto-2&theme=tokyonight&hide_border=true)](https://github.com/jussef/mi-proyecto-2)
+
+> 💡 **Puedes agregar tus repositorios destacados editando los nombres "mi-proyecto-1" y "mi-proyecto-2"**
 
 </div>
 
@@ -99,16 +128,23 @@ const juss = {
 
 <div align="center">
 
-### 💜 𝕃𝕖𝕥'𝕤 ℂ𝕠𝕟𝕟𝕖𝕔𝕥! 💜
+## 🤝 Conectemos
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+<p>
+Me encanta conocer gente nueva y colaborar en proyectos interesantes. ¡No dudes en contactarme!
+</p>
 
-**I love connecting with different people, so if you want to say hi, I'll be happy to meet you!**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jussef)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jussef)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jussef.dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jussefwebstudio@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=jussef&style=for-the-badge&color=FF00FF" alt="Profile Views" />
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=jussef&style=for-the-badge&color=3B82F6" alt="Profile Views" />
 
 ---
 
-<sub>✨ Powered by 80s nostalgia & modern tech ✨</sub>
+<p>⭐️ From <a href="https://github.com/jussef">jussef</a> with 💙</p>
 
 </div>

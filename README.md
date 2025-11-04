@@ -60,16 +60,6 @@ const jussef = {
 
 ---
 
-## 🏆 Logros de GitHub
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jussef&theme=onedark&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
-
-</div>
-
----
-
 ## 🛠️ Tecnologías y Herramientas
 
 <div align="center">
@@ -117,10 +107,10 @@ const jussef = {
 
 <div align="center">
 
-[![Proyecto 1](https://github-readme-stats.vercel.app/api/pin/?username=jussef&repo=mi-proyecto-1&theme=tokyonight&hide_border=true)](https://github.com/jussef/mi-proyecto-1)
-[![Proyecto 2](https://github-readme-stats.vercel.app/api/pin/?username=jussef&repo=mi-proyecto-2&theme=tokyonight&hide_border=true)](https://github.com/jussef/mi-proyecto-2)
+[![Proyecto 1](https://github-readme-stats.vercel.app/api/pin/?username=jussef&repo=mi-proyecto-1&theme=tokyonight&hide_border=true)](https://github.com/Jussef/mini-widgets)
+[![Proyecto 2](https://github-readme-stats.vercel.app/api/pin/?username=jussef&repo=mi-proyecto-2&theme=tokyonight&hide_border=true)](https://github.com/Jussef/ui-kit)
 
-> 💡 **Puedes agregar tus repositorios destacados editando los nombres "mi-proyecto-1" y "mi-proyecto-2"**
+> 💡 **Trabajando ...**
 
 </div>
 

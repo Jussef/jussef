@@ -108,7 +108,7 @@ const jussef = {
 <div align="center">
 
 [![Proyecto 1](https://github-readme-stats.vercel.app/api/pin/?username=jussef&repo=mini-widgets&theme=tokyonight&hide_border=true)](https://github.com/jussef/mini-widgets)
-[![Proyecto 2](https://github-readme-stats.vercel.app/api/pin/?username=jussef&repo=ui-kit&theme=tokyonight&hide_border=true)](https://github.com/jussef/ui-kit)
+[![Proyecto 2](https://github-readme-stats.vercel.app/api/pin/?username=jussef&repo=ui-kit&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/jussef/ui-kit)
 
 
 > 💡 **Trabajando ...**
